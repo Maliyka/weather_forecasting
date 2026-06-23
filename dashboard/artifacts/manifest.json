@@ -1,0 +1,40 @@
+{
+  "forecast_targets": [
+    "temperature_celsius",
+    "precip_mm"
+  ],
+  "forecast_horizons": [
+    7,
+    14,
+    21,
+    30,
+    60
+  ],
+  "anomaly_contaminations": [
+    0.01,
+    0.02,
+    0.05,
+    0.1
+  ],
+  "cluster_k_range": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "cluster_features": [
+    "latitude",
+    "longitude",
+    "temperature_celsius",
+    "humidity",
+    "precip_mm"
+  ],
+  "shap_target": "temperature_celsius",
+  "prophet_available": true,
+  "shap_available": true
+}
