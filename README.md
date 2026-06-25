@@ -77,5 +77,5 @@ e.g. best model, RMSE achieved, strongest predictive feature.)*
 
 ## Demo Video
 
-*(Add the link to your 1–2 minute screen-recording demo here.)*
+https://drive.google.com/file/d/1-Kf7yHnW4IEonmIODqPW6fb0JALqedSM/view?usp=drive_link
 # weather_forecasting
